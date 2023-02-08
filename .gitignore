@@ -37,3 +37,4 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+plot(mtcars$mpg ~ mtcars$wt)
